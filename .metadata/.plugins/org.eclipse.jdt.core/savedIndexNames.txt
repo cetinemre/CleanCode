@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Emre\EtiyaAkademi\EtiyaWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+1064158768.index
+3023116261.index
+3538233928.index
+1643609595.index
+2738015967.index
+1865797976.index
+2049081544.index
+581228771.index
